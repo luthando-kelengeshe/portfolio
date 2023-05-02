@@ -1045,6 +1045,7 @@ a:focus {
     text-align: center;
     padding: 0 30px 30px;
     color: #333;
+    visibility: hidden;
 }
 
 .pop-up img {
