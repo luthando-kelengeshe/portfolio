@@ -10,7 +10,7 @@ $email = trim($_POST['email']);
 $m_subject = trim($_POST['subject']);
 $message = trim($_POST['message']);
 
-$to = "dde995377a7fb6e66620950e59821eb9"; 
+$to = "lkelengeshe@outlook.com"; 
 $subject = "$m_subject:  $name";
 $body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\n\nEmail: $email\n\nSubject: $m_subject\n\nMessage: $message";
 $header = "From: $email";
