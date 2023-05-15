@@ -15,7 +15,7 @@ $(function () {
             $this.prop("disabled", true);
 
             $.ajax({
-                url: "https://formsubmit.co/dde995377a7fb6e66620950e59821eb9",
+                url: "https://formsubmit.co/el/tifoka",
                 type: "POST",
                 data: {
                     name: name,
