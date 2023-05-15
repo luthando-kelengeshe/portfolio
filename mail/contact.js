@@ -15,7 +15,7 @@ $(function () {
             $this.prop("disabled", true);
 
             $.ajax({
-                url: "https://formsubmit.co/luthandokelengeshe@gmail.com",
+                url: "https://formsubmit.co/dde995377a7fb6e66620950e59821eb9",
                 type: "POST",
                 data: {
                     name: name,
