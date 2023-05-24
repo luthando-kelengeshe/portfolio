@@ -535,6 +535,10 @@ a:focus {
     margin-top: 15px;
 }
 
+.about span {
+    font-weight: bold;
+}
+
 @media (max-width: 991.98px) {
     .about .about-content {
         padding: 45px 15px 0 15px;
